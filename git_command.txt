@@ -1,0 +1,12 @@
+# git init - to initialize ur github repository
+# git add . - to add ur changes
+# git commit -m "your message goes here"
+# git status - to know d status quo
+# git log (hit 'q' to exit) - know how many commit u v made
+# git checkout 'unique commit id here' - to move around ur versions of work
+
+Git Remote Commands...
+# git remote -v
+# git remote add origin 'paste the ur github project url here'
+# git push origin master
+# git pull origin master
